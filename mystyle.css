@@ -1,0 +1,98 @@
+body {
+    background-color: #6e638e;
+}
+#titlecontainer{
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    top:-4em;
+}
+nav{
+    color:white;
+}
+a{
+    color:white;
+}
+strong{
+    color:black;
+}
+#username{
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    top:-4em;
+    left:-140px;
+    font-size: 20px;
+}
+#underline{
+    width:100px;
+}
+#loginbox{
+    position: relative;
+    background-color: #493d63;
+    padding:150px;
+    width:150px;
+    height:120px;
+    border-radius: 25px;
+    margin:auto;
+    margin-top:15%;
+}
+#password{
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    top:-2em;
+    left:-140px;
+    font-size: 20px;   
+}
+#userinput{
+    background-color: transparent;
+    border: 10;
+    position: relative;
+    top:-12.5em;
+    left:-10px;
+    border:0;
+    outline:0;
+    border-bottom: 1px solid white;
+    color:white;
+}
+#passinput{
+    background-color: transparent;
+    border: 10;
+    position: relative;
+    top:-7.8em;
+    left:-10px;
+    border:0;
+    outline:0;
+    border-bottom: 1px solid white;
+    color:white;
+}
+#loginbutton{
+    position:relative;
+    background-color: transparent;
+    border-style: solid;
+    border-color:white;
+    color:white;
+    border-radius: 25px;
+    width:100%;
+    top:-3em;
+}
+#registerbutton{
+    position:relative;
+    background-color: transparent;
+    border-style: solid;
+    border-color:white;
+    color:white;
+    border-radius: 25px;
+    width:100%;
+    top:-3em;
+}
+#page{
+    width:100%;
+    height:100%;
+}
+#register{
+    position: relative;
+    left:200px;
+    top:-20px;
+}
