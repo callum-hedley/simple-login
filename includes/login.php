@@ -25,7 +25,7 @@ if(isset($_POST['login'])){
                 }elseif($hashCheck == true){
                     $_SESSION['u_id'] = $row['user_id'];
                     $_SESSION['u_name'] = $row['user_name'];
-                    header("Location: ../about.php?login=success");
+                    header("Location: ../loggedin.php?login=success");
                     exit();
                 }
             }

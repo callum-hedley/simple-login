@@ -26,7 +26,7 @@
                     <input type="text" id="userinput" name="username">
                     <input type="password" id="passinput" name="password">
                     
-                    <a href="about.php">
+                    <a href="loggedin.php">
                         <button type="submit"; id="loginbutton" name="login">
                             Login
                         </button>
